@@ -1,7 +1,7 @@
 # Privacy Policy
 
 ## Introduction
-This privacy policy ("Policy") describes how [Your App Name] ("App", "we", "us", or "our") collects, uses, and shares information about you when you use our application. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
+This privacy policy ("Policy") describes how sound-reminder-app ("App", "we", "us", or "our") collects, uses, and shares information about you when you use our application. We are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner.
 
 ## Information We Collect
 At this time, our app does not collect any personal information from users. If in the future we decide to collect personal information, this Policy will be updated accordingly.
@@ -19,8 +19,7 @@ We take the security of your data seriously and will implement reasonable measur
 We may update this Policy from time to time. When we do, we will notify you by updating the "Last Updated" date at the top of this Policy. We encourage you to review this Policy periodically to stay informed about how we are protecting your information.
 
 ## Contact Us
-If you have any questions about this Policy or our privacy practices, please contact us at [Your Contact Email].
+If you have any questions about this Policy or our privacy practices, please contact us at aarapaport@gmail.com.
 
 ---
 
-**Last Updated:** [Today's Date]
